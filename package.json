@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-axios-request-config-sample",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "5.12.2",
+    "axios": "0.20.0",
+    "nuxt": "2.14.6"
+  }
+}
