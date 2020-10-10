@@ -6,7 +6,7 @@ https://stackoverflow.com/questions/64294100/axios-may-ignore-default-headers
 
 When I make a request by setting headers config in the request config, the default headers are ignored on node.js.
 
-When I run the following code on node.js, the default headers are ignored.
+When I run the following code on node.js (on server side rendering), the default headers are ignored.
 
 ```
 import axios from "axios";
